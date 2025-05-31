@@ -54,7 +54,7 @@ export default function WidgetEditor() {
     <div className="container-fluid container-panel">
       <div className="row gap-4 justify-content-center">
         <div className="col-md-4 col-editor">
-          <h3>Editor de Widget</h3>
+          <h3>Editor de Widget Betipo</h3>
 
           <Form.Check
             type="switch"
